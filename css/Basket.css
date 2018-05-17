@@ -1,0 +1,205 @@
+.img{
+	position: relative;
+	left: 
+	top: ;
+}
+.h1{
+	position: relative;
+	left: 45%;
+	top: 150%;
+	font-size: 200%;
+	font-family: Helvetica;
+	color: #000000;
+}
+table{
+	table-layout: auto;
+	width: 60%;
+	font-family: sans-serif, serif;
+	font-size: large;
+	position: relative;
+	left: 20%;
+	top: 150%;
+	border: 2px solid #BBBBBB;
+	border-radius: 5px;
+}
+tr{
+	opacity: 0.8;
+	transition-duration: 0.3s;
+	background-color: #BBBBBB;
+}
+tr:hover{
+	opacity: 1;
+}
+th{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 20%;
+	padding: 10% 0% 1% 1%;
+	text-align: center;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a11{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+    background-image: url("../Computer.png");
+    background-size: cover;
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 10%;
+	text-align: center;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a12{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 25%;
+	text-align: center;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a13{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 20%;
+	text-align: center;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a14{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 25%;
+	text-align: center;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a15{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 20%;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a21{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+    background-image: url("../Phone.png");
+    background-size: cover;
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 20%;
+	text-align: center;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a22{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 20%;
+	text-align: center;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a23{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 20%;
+	text-align: center;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a24{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 20%;
+	text-align: center;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a25{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 20%;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a31{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+    background-image: url("../Access.png");
+    background-size: cover;
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 20%;;
+	text-align: center;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a32{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 20%;
+	text-align: center;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a33{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 20%;
+	text-align: center;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a34{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 20%;
+	text-align: center;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+.a35{
+	color:#FFFFFF;
+    background: linear-gradient(#888888, #BBBBBB);
+	border: 2px solid #BBBBBB;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #BBBBBB;
+	width: 20%;
+	text-shadow: 1px 1px 2px #556B2F50; 
+}
+th:first-child, td:first-child{
+	width: 10%;
+}
+.i1{
+	width: 80%;
+	height: 100%;
+	border: 2px solid #BBBBBB;
+	border-radius: 5px;
+	background-size: cover;
+	font-size: 100%;
+	font-family: Helvetica;
+	color: #000000;
+	background: linear-gradient(#AAAAAA, #EEEEEE);
+	border: 2px solid #EEEEEE;
+}
+
+.im1{
+	width: 300%;
+}
+.im2{
+	width: 300%;
+}
+.im3{
+	width: 300%;
+}

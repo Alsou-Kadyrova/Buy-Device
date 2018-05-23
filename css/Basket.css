@@ -1,16 +1,32 @@
+.p{
+	color:#FFFFFF;
+    position:absolute; 
+    left:87vw;
+    top: 1vw;
+    float:right;
+    font-family: Helvetica;
+}
+.h{
+	color: #FFFFFF;
+    position:absolute; 
+    left:1vw;
+    top: 0.1vh;
+    font-family: Helvetica;
+}
 .img{
 	position: relative;
 	left: 
 	top: ;
 }
 .h1{
-	position: relative;
-	left: 45%;
-	top: 150%;
+	text-align: center;
+	display:block;
 	font-size: 200%;
 	font-family: Helvetica;
 	color: #000000;
+	margin: 2%;
 }
+
 table{
 	table-layout: auto;
 	width: 60%;
@@ -202,4 +218,13 @@ th:first-child, td:first-child{
 }
 .im3{
 	width: 300%;
+}
+.main{
+	color: #FFFFFF;
+    position: absolute;
+    top: 2vw;
+    left:78vw;
+    text-decoration: none;
+    font-family: Helvetica;
+    font-size: 110%;
 }
